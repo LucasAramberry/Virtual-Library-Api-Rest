@@ -2,7 +2,7 @@
 
 <h3>Personal Project Virtual Library Api Rest</h3>
 
-This project, called Virtual Library, is a REST API developed using Java and Spring Boot. It incorporates some technologies like JWT for authentication, Swagger for API documentation, and Spring Boot Test for unit and integration testing.
+This project, called Virtual Library, is a REST API developed using Java and Spring Boot. It incorporates some technologies like JWT for authentication, Swagger for API documentation, Spring Boot Test for unit and integration tests, environments and profiles, and more detailed technologies used.
 
 <h3>Description:</h3>
 
